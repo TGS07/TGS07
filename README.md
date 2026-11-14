@@ -13,6 +13,7 @@ I'm the founder of [**FORMA**](https://formaagency.pt), where I build custom CRM
 [![Website](https://img.shields.io/badge/formaagency.pt-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://formaagency.pt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmsampaio)
 [![FORMA on LinkedIn](https://img.shields.io/badge/FORMA-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/formaagency)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasmcp@gmail.com)
 
 <br />
 
